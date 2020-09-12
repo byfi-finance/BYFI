@@ -19,7 +19,11 @@ Tokenomics:
 🔥Burn Address: https://etherscan.io/token/0x07872c1d399ba89235ad5ce3c2366350fd1198f2?a=0x000000000000000000000000000000000000dead
 
 📡Website: https://byfi.finance
+
 🔷Telegram: https://t.me/byfi_finance
+
 🔶Twitter: https://twitter.com/BYFI_Finance
+
 🔻Medium: https://medium.com/@developer_89273
+
 🔲Email: developer@byfi.finance
